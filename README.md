@@ -1,3 +1,3 @@
 # Personal-Website---CSS
 
-Prebies]- https://shubham7668.github.io/Personal-Website---CSS/
+Preview- https://shubham7668.github.io/Personal-Website---CSS/
